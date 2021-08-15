@@ -1,4 +1,4 @@
-# MAMAKLI MUSİC BOT 2 — Telegram bot + userbot for streaming audio in group calls written in JavaScript
+# SOLOFEJ MUSİC BOT 2 — Telegram bot + userbot for streaming audio in group calls written in JavaScript
 
 ## Requirements
 
@@ -31,7 +31,7 @@ This bot needs a Linux system, Node JS version 15 or newer with the packages spe
 
 ### Heroku
 
-[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/mamakli06/m-sicbot)
+[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/EkimozSupport/solobotdeneme)
 
 - You can generate a string session [here](https://rojserbest.github.io/bssg).
 
